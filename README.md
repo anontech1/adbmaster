@@ -5,7 +5,7 @@
 ![GitHub watchers](https://img.shields.io/github/watchers/rendiix/termux-adb-fastboot.svg?style=social)
 [![GitHub followers](https://img.shields.io/github/followers/rendiix.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/rendiix?tab=followers)
 [![GitHub contributors](https://img.shields.io/github/contributors/rendiix/termux-adb-fastboot.svg)](https://github.com/rendiix/termux-adb-fastboot/graphs/contributors/)
-
+print("hello bro)
 # termux-platform-tools
 Update: latest platform tools 33.0.3
 
